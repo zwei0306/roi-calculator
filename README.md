@@ -14,8 +14,3 @@
 
 本项目采用 [MIT License](https://choosealicense.com/licenses/mit/).
 
-## 致谢
-
-感谢哥飞提出的建议和 ROI 计算逻辑，哥飞的社群主要面向技术开发者、产品经理、设计师等人群，大家一起讨论独立开发、出海产品、流量获取、流量变现等话题，欢迎关注：
-
-<img src="/assets/images/gefei.png" width="300" alt="gefei wechat">
